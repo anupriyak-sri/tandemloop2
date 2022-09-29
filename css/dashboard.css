@@ -1,0 +1,98 @@
+html {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+body {
+    background: #f8f9fa !important;
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.card1 {
+    padding: 30px;
+    text-align: left;
+}
+.card3 {
+    background-color: #2a2929;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 30px;
+    text-align: left;
+}
+.card3 h1 sub {
+    font-size: small;
+}
+
+.card3 button {
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    display: block;
+    background: #ffffff33 !important;
+    border: none;
+    font-weight: 600;
+    color: #ffffff !important;
+    opacity: 1 !important;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.card2 {
+    border: 1px solid #ddd;
+    background: #fff;
+    border-radius: 10px;
+    text-align: left;
+    padding: 30px;
+}
+.card2 button {
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    display: block;
+    background: #d8effb !important;
+    border: none;
+    font-weight: 600;
+    color: #0761da !important;
+    opacity: 1 !important;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.dasboard1 span {
+    font-size: 11px;
+}
+.dasboard1 .details {
+    font-size: 13px;
+}
+
+.main {
+    margin-top: 130px;
+}
+.content {
+    margin-top: 100px;
+}
+.page3 .card {
+    min-height: 200px;
+    background: #fff !important;
+    border: none;
+}
+.page3 .card .card-body {
+    background: #fff !important;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    padding: 40px;
+}
+.page3 .card .card-body i {
+    font-size: 55px;
+    color: #2196f3;
+    display: block;
+}
+.page-top {
+    margin-top: -50px;
+}
